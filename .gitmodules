@@ -1,0 +1,9 @@
+[submodule "signature-for-developers"]
+	path = signature-for-developers
+	url = https://github.com/aratheunseen/signature-for-developers.git
+[submodule "signature-app-landing-page"]
+	path = signature-app-landing-page
+	url = https://github.com/aratheunseen/signature-app-landing-page.git
+[submodule "signature-client-demo"]
+	path = signature-client-demo
+	url = https://github.com/aratheunseen/signature-client-demo.git
