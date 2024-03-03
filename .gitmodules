@@ -10,3 +10,6 @@
 [submodule "signature-assets"]
 	path = signature-assets
 	url = https://github.com/aratheunseen/signature-assets.git
+[submodule "signature-app"]
+	path = signature-app
+	url = https://github.com/aratheunseen/signature-app.git
