@@ -7,3 +7,6 @@
 [submodule "signature-client-demo"]
 	path = signature-client-demo
 	url = https://github.com/aratheunseen/signature-client-demo.git
+[submodule "signature-assets"]
+	path = signature-assets
+	url = https://github.com/aratheunseen/signature-assets.git
